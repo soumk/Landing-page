@@ -1,6 +1,3 @@
-# Challenge Startup Landing Page
-
-To get all the images we recommend you go to [Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef) to sign up and get all the images! It is completely FREE!
 
 ## Images
 
